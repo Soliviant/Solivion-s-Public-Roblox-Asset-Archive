@@ -1,0 +1,18 @@
+newmtl DecorPillar1Mtl
+Material Color
+Ka 0.598942 0.605484 0.645555
+Kd 0.598942 0.605484 0.645555
+Ks 0.0305343 0.0308678 0.0329107 
+
+d 1
+
+Ns 0
+
+map_Ka DecorPillar1_diff.png
+map_Kd DecorPillar1_diff.png
+map_d DecorPillar1_diff.png
+
+map_Bump DecorPillar1_nmap.png
+
+map_Ns DecorPillar1_spec.png
+

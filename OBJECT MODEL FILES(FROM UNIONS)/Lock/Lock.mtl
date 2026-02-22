@@ -1,0 +1,36 @@
+newmtl Lock1Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0225023 0.0205504 0.0220053 
+
+d 1
+
+Ns 202
+
+map_Ka Lock1_diff.png
+map_Kd Lock1_diff.png
+map_d Lock1_diff.png
+
+map_Bump Lock1_nmap.png
+
+map_Ns Lock1_spec.png
+
+newmtl Intersection1Mtl
+Material Color
+Ka 0.982826 0.827726 0.271577
+Kd 0.982826 0.827726 0.271577
+Ks 0.177294 0.149315 0.0489904 
+
+d 1
+
+Ns 202
+
+map_Ka Lock1_diff.png
+map_Kd Lock1_diff.png
+map_d Lock1_diff.png
+
+map_Bump Lock1_nmap.png
+
+map_Ns Lock1_spec.png
+

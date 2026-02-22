@@ -1,0 +1,27 @@
+You may read the files' descriptions for more context.(I Set them on drive's Description, Press 3 dots, (File/Folder) Information, Details, Then Scroll To The Bottom)
+Enjoy the assets, No credits needed
+
+All the assets in the folder made by Solivion(Excluding Most Tool Meshes And SFX)
+
+Some Of The Assets Requires Actor If One Is Packed With.
+Some Assets Might Have Settings, Check out the scripts in it
+The RBXL File Might Contain Some Unincluded Assets, Most of them are mine(Except The Dust Motes Particles(From Roblox Platformer Template) And PlayerModule(I Got It From Another Source Which I Couldn't Remember, I edited it a bit), And BGM(Outrun The Nightmare) Definitely isn't mine
+
+The File May Differs From The Version That Was Published On Roblox
+
+	Disclaimer: All of the assets does not contain inappropriate contents(Please beware that some Random generated text might generate inappropriate result(Like the random generated string that Knife(Tool) contain as a feature). To be safe, please ensure that filters are put in place of those contents, other than that there are nothing else to be warned of. Enjoy!)
+
+-~<{Solivion}>~-
+I can't believe I'm so bored that I could pump out so many assets Instead Of Focusing On My Education
+--([@8/31/2024])--
+
+[[MAP.rbxm CREDITS:
+Builder & CSG Parts - @Solivion
+Plant & Rock Models - @Roblox
+Vine Models - @CoolzyGamingYT, @main_Vojtafak1, etc.
+Ceiling Light Model - @Santiella]]
+
+Logs:
+--Sparkler's Giving System Has Been Fixed
+--Most Scripts Are Now Rate Limited to Under Either 120, 90 or 60 FPS. So It doesn't cook the server
+--File Updated

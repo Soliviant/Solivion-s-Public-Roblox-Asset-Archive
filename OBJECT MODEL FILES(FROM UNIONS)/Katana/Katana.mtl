@@ -1,0 +1,18 @@
+newmtl Katana1Mtl
+Material Color
+Ka 1 1 0
+Kd 1 1 0
+Ks 0.666667 0.666667 0 
+
+d 1
+
+Ns 255
+
+map_Ka Katana1_diff.png
+map_Kd Katana1_diff.png
+map_d Katana1_diff.png
+
+map_Bump Katana1_nmap.png
+
+map_Ns Katana1_spec.png
+

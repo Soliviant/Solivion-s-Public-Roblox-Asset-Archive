@@ -1,0 +1,18 @@
+newmtl SolivionLogo1Mtl
+Material Color
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.0431373 0 0 
+
+d 1
+
+Ns 0
+
+map_Ka SolivionLogo1_diff.png
+map_Kd SolivionLogo1_diff.png
+map_d SolivionLogo1_diff.png
+
+map_Bump SolivionLogo1_nmap.png
+
+map_Ns SolivionLogo1_spec.png
+
