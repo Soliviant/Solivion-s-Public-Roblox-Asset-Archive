@@ -1,0 +1,54 @@
+newmtl Glass1Mtl
+Material Color
+Ka 0.000107187 0.436813 0.84337
+Kd 0.000107187 0.436813 0.84337
+Ks 0.000107187 0.436813 0.84337 
+
+d 1
+
+Ns 0
+
+map_Ka Glass1_diff.png
+map_Kd Glass1_diff.png
+map_d Glass1_diff.png
+
+map_Bump Glass1_nmap.png
+
+map_Ns Glass1_spec.png
+
+newmtl Sand1Mtl
+Material Color
+Ka 1 0.442323 0
+Kd 1 0.442323 0
+Ks 0.0392157 0.017346 0 
+
+d 1
+
+Ns 0
+
+map_Ka Sand1_diff.png
+map_Kd Sand1_diff.png
+map_d Sand1_diff.png
+
+map_Bump Sand1_nmap.png
+
+map_Ns Sand1_spec.png
+
+newmtl Frame1Mtl
+Material Color
+Ka 0.144972 0.0370285 0.000638183
+Kd 0.144972 0.0370285 0.000638183
+Ks 0.0108018 0.00275899 4.75509e-05 
+
+d 1
+
+Ns 0
+
+map_Ka Frame1_diff.png
+map_Kd Frame1_diff.png
+map_d Frame1_diff.png
+
+map_Bump Frame1_nmap.png
+
+map_Ns Frame1_spec.png
+
