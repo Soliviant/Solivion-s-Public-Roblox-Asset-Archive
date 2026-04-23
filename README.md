@@ -4,3 +4,5 @@ it's free, take it, do whatever you want with it.
 
 I already dropped all the things I made prior to 2/22/2026
 I will be uploading more assets in here soon enough
+
+if something is missing, check my video's description, my drive, or my other repository >> https://github.com/Soliviant/Solivion-s-Assets
