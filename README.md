@@ -8,6 +8,6 @@ if something is missing, check my video's description, my drive, or my other rep
 
 **The repo and its mirrors use various licenses for each category of file:**
 
-**3D Meshes/Model** files are listed under **CC BY-NC 4.0**
+**3D Meshes/Model** files are listed under **CC BY-NC 4.0** (I removed Roblox's Asset from the directory just now for that reason)
 
 **Other files without a seperate License file inside their ancestor directory** are to be considered listed under the License in the root of the repository **(MIT License)**
